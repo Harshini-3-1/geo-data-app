@@ -30,6 +30,7 @@ This application allows users to manage and visualize geospatial data. Users can
 - Register and log in to the application
 - Upload GeoJSON/KML and TIFF files
 - Interact with the map to draw shapes, measure distances, and manage point markers
+- 
 
 ## Contributing
 - Fork the repository
